@@ -87,15 +87,17 @@ public class MicrosoftBackgroundLogin {
 
                 MinecraftAccount acc = MinecraftAccount.load(mcName);
                 if(acc == null) acc = new MinecraftAccount();
-                acc.xuid = xsts[0];
-                acc.clientToken = "0"; /* FIXME */
-                acc.accessToken = mcToken;
-                acc.username = mcName;
-                acc.profileId = mcUuid;
-                acc.isMicrosoft = true;
-                acc.msaRefreshToken = msRefreshToken;
-                acc.expiresAt = expiresAt;
-                acc.updateSkinFace();
+                if (doesOwnGame) {
+                     acc.xuid = xsts[0];
+                     acc.clientToken = "0"; /* FIXME */
+                     acc.accessToken = mcToken;
+                     acc.username = mcName;
+                     acc.profileId = mcUuid;
+                     acc.isMicrosoft = true;
+                     acc.msaRefreshToken = msRefreshToken;
+                     acc.expiresAt = expiresAt;
+                     acc.updateSkinFace();
+                }
                 acc.save();
 
                 if(doneListener != null) {
