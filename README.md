@@ -1,6 +1,12 @@
-<h1 align="center">KinLauncher</h1>
+<h1 align="center">PojavLauncher: Teal Variant</h1>
 
-KinLauncher is a fork off another fork of PojavLauncher. 
+PojavLauncher: Teal Variant is a fork off another fork of PojavLauncher.
+
+This isn't that much change from the original PojavLauncher,
+but I'm planning to add more features that sets it apart from the original.
+I won't promote this variant nor will i post about it to encourage people to download it.
+
+
 *THIS IS FOR PERSONAL USE ONLY!!!*
 
 <h1 align="center">PojavLauncher</h1>
