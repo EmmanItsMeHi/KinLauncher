@@ -1,3 +1,8 @@
+<h1 align="center">KinLauncher</h1>
+
+KinLauncher is a fork off another fork of PojavLauncher. 
+*THIS IS FOR PERSONAL USE ONLY!!!*
+
 <h1 align="center">PojavLauncher</h1>
 
 <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
