@@ -1,13 +1,11 @@
-<h1 align="center">PojavLauncher: Teal Variant</h1>
+<h1 align="center">PojavLauncher: TEAL Variant</h1>
 
-PojavLauncher: Teal Variant is a fork off another fork of PojavLauncher.
+PojavLauncher: TEAL Variant is a fork off another fork of PojavLauncher.
 
 This isn't that much change from the original PojavLauncher,
 but I'm planning to add more features that sets it apart from the original.
-I won't promote this variant nor will i post about it to encourage people to download it.
+I won't promote this variant nor will i post about it cause i won't encourage people to download it.
 
-
-*THIS IS FOR PERSONAL USE ONLY!!!*
 
 <h1 align="center">PojavLauncher</h1>
 
@@ -110,6 +108,7 @@ If you need more control over the build process, follow these steps:
 * [x] Game surface zooming
 * [x] New input pipe rewritten to native code
 * [x] Rewritten entire controls system
+* [x] Better renderer compatibility with any (but not all) mods
 * [ ] More to come!
 
 ## Known Issues
@@ -161,5 +160,8 @@ Future plans include:
 
 * Improving stability and performance.
 * Enhancing the mod installation experience.
+
+* UI revamp
+* some UX upgrade (maybe...? :3)
 
 We welcome community feedback and suggestions for our roadmap.  Please feel free to open a feature request in our [issue tracker](https://github.com/PojavLauncherTeam/PojavLauncher/issues).
