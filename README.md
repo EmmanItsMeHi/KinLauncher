@@ -6,6 +6,7 @@ This isn't that much change from the original PojavLauncher,
 but I'm planning to add more features that sets it apart from the original.
 I won't promote this variant nor will i post about it cause i won't encourage people to download it.
 
+THIS IS FOR PERSONAL USE ONLY!!!
 
 <h1 align="center">PojavLauncher</h1>
 
