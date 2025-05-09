@@ -49,8 +49,8 @@ android {
         applicationIdSuffix '.teal'
         minSdkVersion 22
         targetSdkVersion 36
-        versionCode 10
-        versionName "4.0.07"
+        versionCode 11
+        versionName "4.0.08"
         multiDexEnabled true //important
         resValue 'string', 'curseforge_api_key', getCFApiKey()
     }
