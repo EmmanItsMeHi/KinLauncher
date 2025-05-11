@@ -47,10 +47,10 @@ android {
     defaultConfig {
         applicationId "net.kdt.pojavlaunch"
         applicationIdSuffix '.teal'
-        minSdkVersion 22
+        minSdkVersion 21
         targetSdkVersion 35
-        versionCode 12
-        versionName "4.0.09"
+        versionCode 13
+        versionName "4.0.10.0"
         multiDexEnabled true //important
         resValue 'string', 'curseforge_api_key', getCFApiKey()
     }
@@ -123,7 +123,7 @@ android {
         buildConfig true
     }
 
-    buildToolsVersion = '34.0.0'
+    buildToolsVersion = '35.0.0'
 }
 
 afterEvaluate {
